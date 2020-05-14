@@ -1,0 +1,10 @@
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\bin\Release\Practica_1.exe.config
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\bin\Release\Practica_1.exe
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\bin\Release\Practica_1.pdb
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.Inicio.resources
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.Properties.Resources.resources
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.csproj.GenerateResource.Cache
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.exe
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.pdb
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.AcercaDe.resources
+D:\Familia Estrada\Documents\Elian Docs\2019\Usac\Segundo Semestre\Lenguajes Formales y de Programación\Laboratorio\Practica_1\Practica_1\obj\Release\Practica_1.csprojResolveAssemblyReference.cache
